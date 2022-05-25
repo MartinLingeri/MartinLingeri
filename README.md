@@ -32,8 +32,9 @@ I'm Information Systems Engineer Student at UTN FRBA. I'm looking for my first w
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/martinlingeri/eeeecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinlingeri&repo=eeeecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/martinlingeri/dondelojuego" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinlingeri&repo=dondelojuego&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/martinlingeri/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinlingeri&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/martinlingeri/mern-todoapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinlingeri&repo=mern-todoapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+<a href="https://github.com/martinlingeri/eeeecommerce"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinlingeri&repo=eeeecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/martinlingeri/dondelojuego"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinlingeri&repo=dondelojuego&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/martinlingeri/portfolio"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinlingeri&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/martinlingeri/mern-todoapp"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinlingeri&repo=mern-todoapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
